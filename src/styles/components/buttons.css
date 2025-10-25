@@ -1,0 +1,26 @@
+.button {
+  border-radius: 1px;
+  background: var(--global-primary);
+  color: var(--base-text-on-dark);
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  border: none;
+}
+
+.button--large {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 162%;
+  letter-spacing: -0.02em;
+  padding: 15px 25px;
+}
+
+.button--small {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 157%;
+  letter-spacing: -0.02em;
+  height: 32px;
+  padding: 5px 20px;
+}

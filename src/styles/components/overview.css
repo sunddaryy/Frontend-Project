@@ -1,0 +1,32 @@
+.overview {
+  background: var(--base-bg-secondary);
+  padding: 134px 0 99px;
+}
+
+.overview__content {
+  max-width: 923px;
+}
+
+.overview__title {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 112%;
+  letter-spacing: -0.02em;
+  text-transform: capitalize;
+  color: var(--base-text-primary);
+  margin-bottom: 31px;
+}
+
+.overview__subtitle {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 142%;
+  letter-spacing: -0.02em;
+  color: #000;
+  margin-bottom: 36px;
+}
+
+.overview__button {
+  margin-top: 36px;
+}

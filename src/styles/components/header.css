@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  padding: 21px 0 20.25px;
+}
+
+.header__logo {
+  margin-right: 53px;
+  height: 38px;
+}
+
+.header__nav {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+}
+
+.header__button {
+  display: flex;
+  align-items: center;
+}

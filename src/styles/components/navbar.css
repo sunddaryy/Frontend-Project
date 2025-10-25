@@ -1,0 +1,19 @@
+.navbar {
+}
+
+.navbar__links {
+  display: flex;
+  gap: 31px;
+}
+
+.navbar__link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 162%;
+  letter-spacing: -0.02em;
+  color: var(--base-text-secondary);
+}
+
+.navbar__link--current {
+  color: var(--base-text-primary);
+}

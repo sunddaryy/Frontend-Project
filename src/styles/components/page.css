@@ -1,0 +1,22 @@
+.page {
+  font-family: var(--font-family);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.page__header {
+  flex-shrink: 0;
+}
+
+.page__content {
+  flex-grow: 1;
+}
+
+.page__footer {
+  flex-shrink: 0;
+}
