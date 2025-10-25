@@ -10,3 +10,6 @@
 @import './styles/components/navbar.css';
 @import './styles/components/overview.css';
 @import './styles/components/profile.css';
+@import './styles/components/counts.css';
+@import './styles/components/tutorial.css';
+@import './styles/components/play.css';

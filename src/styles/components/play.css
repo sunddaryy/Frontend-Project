@@ -1,0 +1,17 @@
+.play {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 164px;
+}
+
+.play__button {
+}
+
+.play__text {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 156%;
+  letter-spacing: -0.02em;
+  color: var(--base-text-primary);
+}
