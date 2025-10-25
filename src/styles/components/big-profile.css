@@ -1,0 +1,34 @@
+.big-profile {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.big-profile__pic {
+  background: var(--base-bg-secondary);
+  border-radius: 3px;
+  width: 350px;
+  height: 380px;
+}
+
+.big-profile__text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.big-profile__name {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 142%;
+  letter-spacing: -0.02em;
+  color: var(--base-text-primary);
+}
+
+.big-profile__role {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  color: var(--base-text-secondary);
+}

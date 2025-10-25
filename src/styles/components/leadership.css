@@ -1,0 +1,43 @@
+.leadership {
+  padding: 100px 99px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.leadership__content {
+  display: grid;
+  grid-template-columns: 730px 1fr;
+  row-gap: 50px;
+  padding: 0 45px;
+}
+
+.leadership__meet {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 142%;
+  letter-spacing: -0.02em;
+  color: var(--global-primary);
+  padding-bottom: 24px;
+}
+
+.leadership__title {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 124%;
+  letter-spacing: -0.02em;
+  color: var(--base-text-primary);
+}
+
+.leadership__buttons {
+  display: flex;
+  margin-left: auto;
+  margin-top: auto;
+  gap: 15px;
+}
+
+.leadership__profiles {
+  display: flex;
+  grid-column: 1 / 3;
+  grid-row: 2;
+  gap: 30px;
+}
