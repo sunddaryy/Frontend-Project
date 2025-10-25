@@ -8,7 +8,6 @@
   display: grid;
   grid-template-columns: 730px 1fr;
   row-gap: 50px;
-  padding: 0 45px;
 }
 
 .leadership__meet {
