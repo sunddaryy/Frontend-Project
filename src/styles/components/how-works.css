@@ -1,0 +1,48 @@
+.how-works {
+  padding: 69px 0 62px;
+}
+
+.how-works__title {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 124%;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #18191f;
+  margin-bottom: 47px;
+}
+
+.how-works__items {
+  display: flex;
+  gap: 30px;
+}
+
+.how-works__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 350px;
+}
+
+.how-works__pic {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.how-works__step {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 142%;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #18191f;
+}
+
+.how-works__description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 162%;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #18191f;
+}
