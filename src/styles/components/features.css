@@ -1,0 +1,17 @@
+.features {
+  padding: 127px 0 128px;
+}
+
+.features__content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.features__items {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 60px;
+}
+
+.features__image {
+}
