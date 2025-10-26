@@ -31,6 +31,7 @@
 
 .counts__item {
   width: 255px;
+  grid-row: 1;
 }
 
 .counts__num {
@@ -55,4 +56,36 @@
   border: 1px solid var(--base-text-on-dark);
   height: 96px;
   opacity: 0.4;
+}
+
+@media (width <= 1024px) {
+  .counts__category {
+    font-size: calc(18px * 0.8);
+  }
+
+  .counts__num {
+    font-size: calc(52px * 0.8);
+  }
+
+  .counts__line {
+    height: calc(96px * 0.8);
+  }
+}
+
+@media (width <= 768px) {
+  .counts__category {
+    font-size: calc(18px * 0.6);
+  }
+
+  .counts__num {
+    font-size: calc(52px * 0.6);
+  }
+
+  .counts__line {
+    height: 71px;
+  }
+
+  .counts__description {
+    margin-bottom: 35px;
+  }
 }
