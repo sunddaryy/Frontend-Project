@@ -4,6 +4,10 @@
   margin-right: auto;
 }
 
+.leadership__button {
+  border: none;
+}
+
 .leadership__content {
   display: grid;
   grid-template-columns: 730px 1fr;

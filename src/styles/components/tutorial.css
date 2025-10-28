@@ -10,8 +10,19 @@
 
 .tutorial__store {
   border-radius: 3px;
-  background-image: url('src/images/photo.jpg');
-  padding: 409px 175px 31px 29px;
+  position: relative;
+  max-width: 400px;
+  max-height: 500px;
+  height: 100%;
+  width: 100%;
+
+  /* background-image: url('src/images/photo.jpg');
+  padding: 409px 175px 31px 29px; */
+}
+
+.tutorial__photo {
+  max-width: 400px;
+  height: auto;
 }
 
 .tutorial__descr {
@@ -20,13 +31,19 @@
   line-height: 150%;
   letter-spacing: -0.02em;
   color: var(--base-text-on-dark);
-  width: 196px;
+  max-width: 196px;
+  width: 100%;
+  position: absolute;
+  left: 29px;
+  bottom: 31px;
 }
 
 .tutorial__text {
   display: flex;
   flex-direction: column;
   gap: 30px;
+  max-width: 635px;
+  width: 100%;
 }
 
 .tutorial__title {

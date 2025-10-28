@@ -1,0 +1,20 @@
+[33m47f1129[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~
+[33m17e0a8c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: checkout: moving from e65db2a9bac005a4c381b780ac02396aab41a751 to main
+[33me65db2a[m HEAD@{2}: commit: готово
+[33m47f1129[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{3}: checkout: moving from branch1 to 47f11292bbc01c4bf377aa788b46fd63a1de1614
+[33m6428d67[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{4}: commit: change1
+[33m47f1129[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{5}: checkout: moving from 47f11292bbc01c4bf377aa788b46fd63a1de1614 to branch1
+[33m47f1129[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from main to 47f11292bbc01c4bf377aa788b46fd63a1de1614
+[33m17e0a8c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{7}: commit: adaptive1
+[33m47f1129[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{8}: checkout: moving from main to main
+[33m47f1129[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from main to main
+[33m47f1129[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{10}: commit: footer
+[33m4717ccc[m HEAD@{11}: commit: closing
+[33m1e97ffd[m HEAD@{12}: commit: how it works
+[33mbd4a1c9[m HEAD@{13}: commit: success
+[33m33c9c01[m HEAD@{14}: commit: leadership
+[33mf3f8212[m HEAD@{15}: commit: features
+[33mbbe59a0[m HEAD@{16}: commit: tutorial+counts
+[33m9e94066[m HEAD@{17}: commit: header+overview
+[33mcb0e173[m HEAD@{18}: Branch: renamed refs/heads/master to refs/heads/main
+[33mcb0e173[m HEAD@{20}: commit (initial): first commit
